@@ -10,7 +10,9 @@
   This Repository Contains all My Solutions [C++] to the Problems of 6 Companies during the Period  of 30 Days of January 2022. 
   </samp>
 
-  ![Coding_Image_Bhagya_Rana](/codinglife.gif)
+  <p align="center">
+  <img src="/codinglife.gif" alt="Coding_Image_Bhagya_Rana" width="425" height="300">
+  </p>
 
   This Challenge was initiated [`#arsh_goyal`](https://twitter.com/arsh_goyal) Bhaiya for improving our Coding Consistency.
   
