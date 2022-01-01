@@ -10,7 +10,7 @@
   This Repository Contains all My Solutions [C++] to the Problems of 6 Companies during the Period  of 30 Days of January 2022. 
   </samp>
   <br/>
-  <i>This Challenge was initiated @arsh_goyal Bhaiya for improving our Coding Consistency.</i> 
+  <i>This Challenge was initiated [`@arsh_goyal`](https://twitter.com/arsh_goyal) Bhaiya for improving our Coding Consistency.</i> 
   <br/>
 
   [`#REVISEWITHARSH`](https://twitter.com/search?q=%23REVISEWITHARSH&src=typed_query)
@@ -21,6 +21,8 @@
 
 ## Table of Contents [5 Companies]
 
+- [6Companies30Days :man_technologist:](#6companies30days-man_technologist)
+  - [Table of Contents [5 Companies]](#table-of-contents-5-companies)
     - [Goldman Sachs](#goldman-sachs)
     - [Company_2](#company_2)
     - [Company_3](#company_3)
