@@ -10,11 +10,9 @@
   This Repository Contains all My Solutions [C++] to the Problems of 6 Companies during the Period  of 30 Days of January 2022. 
   </samp>
   <br/>
-  This Challenge was initiated 
 
-  [`#arsh_goyal`](https://twitter.com/arsh_goyal) 
+  This Challenge was initiated [`#arsh_goyal`](https://twitter.com/arsh_goyal) Bhaiya for improving our Coding Consistency.
   
-  Bhaiya for improving our Coding Consistency.
   <br/>
 
   [`#REVISEWITHARSH`](https://twitter.com/search?q=%23REVISEWITHARSH&src=typed_query)
