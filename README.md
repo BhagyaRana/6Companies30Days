@@ -1,13 +1,18 @@
 # 6Companies30Days :man_technologist: 
 
+<p align="center">
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://twitter.com/bhagya_rana" ><img src="https://img.shields.io/twitter/follow/bhagya_rana.svg?style=social" /> </a>
+</p>
 
 <p align="center">
   <samp>
   This Repository Contains all My Solutions [C++] to the Problems of 6 Companies during the Period  of 30 Days of January 2022. 
   </samp>
+  <br/>
   <i>This Challenge was initiated @arsh_goyal Bhaiya for improving our Coding Consistency.</i> 
+  <br/>
+
   [`#REVISEWITHARSH`](https://twitter.com/search?q=%23REVISEWITHARSH&src=typed_query)
   [`#6Companies30Days`](https://twitter.com/search?q=%236Companies30Days&src=typeahead_click)
   [`#ReviseWithArsh`](https://twitter.com/search?q=%23ReviseWithArsh&src=typed_query)
