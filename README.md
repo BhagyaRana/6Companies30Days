@@ -27,12 +27,14 @@
 - [6Companies30Days :man_technologist:](#6companies30days-man_technologist)
   - [Table of Contents [5 Companies]](#table-of-contents-5-companies)
     - [Goldman Sachs](#goldman-sachs)
-    - [Company_2](#company_2)
+    - [Amazon](#amazon)
     - [Company_3](#company_3)
     - [Company_4](#company_4)
     - [Company_5](#company_5)
 
 ### Goldman Sachs
+
+<a href="https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNuJyDF9v8aqfNd1UB9fQWTb-_aohzhPbZ0GOVbXvfnGHgzbWWdkf9gr7ZgM0lj/pub">Question's Document Link</a>
 
 <details>
   <summary><b>✨&nbsp;&nbsp;Goldman&nbsp;Sach&nbsp;Questions</b></summary>
@@ -58,29 +60,31 @@
 
 </details>
 
-### Company_2
+### Amazon
+
+<a href="https://docs.google.com/document/d/1KH9GVaUCET-y5SL5sg6DAnon9XwRRW-sPiyJ2p7FRLs/edit">Question's Document Link</a>
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;Company_2&nbsp;Questions</b></summary>
+  <summary><b>✨&nbsp;&nbsp;Amazon&nbsp;Questions</b></summary>
   <br/>
 
 | Sr.No |                   Question                  | Link | Solution |
 |:-----:|:-------------------------------------------:|:----:|:--------:|
-|   1   |          -           |   -  |     -    |
-|   2   |            -           |   -  |     -    |
-|   3   |      -      |   -  |     -    |
-|   4   |             -             |   -  |     -    |
-|   5   |                 -                |   -  |     -    |
-|   6   |      -     |   -  |     -    |
-|   7   |          -         |   -  |     -    |
-|   8   |           -           |   -  |     -    |
-|   9   |          -         |   -  |     -    |
-|   10  | - |   -  |     -    |
-|   11  |          -         |   -  |     -    |
-|   12  |      -      |   -  |     -    |
-|   13  |              -              |   -  |     -    |
-|   14  |          -          |   -  |     -    |
-|   15  |         -        |   -  |     -    |
+|   1   |          Calculating Maximum Profit           |   -  |     -    |
+|   2   |            Longest Mountain            |   -  |     -    |
+|   3   |      IPL 2021 - Match Day 2      |   -  |     -    |
+|   4   |             Brackets in Matrix Chain Multiplication              |   -  |     -    |
+|   5   |                 Phone directory                 |   -  |     -    |
+|   6   |      Maximum of all subarrays of size k     |   -  |     -    |
+|   7   |          First non-repeating character in a stream         |   -  |     -    |
+|   8   |           Count ways to N'th Stair(Order does not matter)           |   -  |     -    |
+|   9   |          Perfect Sudoku Pattern ?         |   -  |     -    |
+|   10  | Nuts and Bolts Problem |   -  |     -    |
+|   11  |          Tree Serialization and Deserialization         |   -  |     -    |
+|   12  |      Column name from a given column number      |   -  |     -    |
+|   13  |              Rotten Oranges               |   -  |     -    |
+|   14  |          Tree Burning           |   -  |     -    |
+|   15  |         Delete N nodes after M nodes of a linked list         |   -  |     -    |
 
 </details>
 
